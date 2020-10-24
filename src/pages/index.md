@@ -1,6 +1,6 @@
 ---
 templateKey: index-page
-title: Testing Editorial Workflow 2
+title: Testing Editorial Workflow 21
 image: /img/blog-index.jpg
 heading: Great coffee with a rrconscience!
 subheading: Support sustainable farming while enjoying a cup
