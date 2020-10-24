@@ -1,6 +1,6 @@
 ---
 templateKey: index-page
-title: Great coffee with a conscience!
+title: Testing Editorial Workflow
 image: /img/blog-index.jpg
 heading: Great coffee with a rrconscience!
 subheading: Support sustainable farming while enjoying a cup
